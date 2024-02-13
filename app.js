@@ -1,7 +1,6 @@
 const fetch = require("node-fetch");
 
 const cloudflareVideosDelete = async () => {
-  console.log("Start");
   try {
     const accountId = process.env.CF_STREAM_ACCOUNTID;
     const endpoint = `https://api.cloudflare.com/client/v4/accounts/${accountId}/stream`;

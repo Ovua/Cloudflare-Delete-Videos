@@ -1,6 +1,6 @@
 # Cloudflare Stream Video Deletion Script
 
-This simple Node.js script is designed to delete videos from a Cloudflare video stream. 
+This simple Node.js script is designed to delete all the videos from a Cloudflare video stream. 
 It removes videos associated with the specified Cloudflare account using the Cloudflare API.
 
 ## Features
