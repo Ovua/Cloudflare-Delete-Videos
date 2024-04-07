@@ -25,4 +25,4 @@ It removes videos associated with the specified Cloudflare account using the Clo
 
 6. Run the script with the command `node filename.js` to initiate the video deletion process.
 
-Ensure you understand the consequences of deleting videos, as this action is irreversible. Use the script with caution and only when necessary.
+Disclaimer: By using this script, you agree that I bear no responsibility for any consequences arising from its use. Please ensure that you use it responsibly and in accordance with Cloudflare's terms of service.
