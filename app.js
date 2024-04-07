@@ -1,4 +1,4 @@
-require('dotenv').config({ path: './env/.env' }); // Carica le variabili d'ambiente da ./env/.env
+require('dotenv').config({ path: './env/.env' }); 
 
 const fetch = require("node-fetch");
 
